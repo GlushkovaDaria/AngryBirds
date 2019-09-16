@@ -1,0 +1,8 @@
+C:\Users\Daria.Glushkova\Desktop\Новая папка\bin\Debug\AngryBirds.exe.config
+C:\Users\Daria.Glushkova\Desktop\Новая папка\bin\Debug\AngryBirds.exe
+C:\Users\Daria.Glushkova\Desktop\Новая папка\bin\Debug\AngryBirds.pdb
+C:\Users\Daria.Glushkova\Desktop\Новая папка\bin\Debug\TestingRoom.dll
+C:\Users\Daria.Glushkova\Desktop\Новая папка\obj\Debug\AngryBirds.csprojResolveAssemblyReference.cache
+C:\Users\Daria.Glushkova\Desktop\Новая папка\obj\Debug\AngryBirds.csproj.CoreCompileInputs.cache
+C:\Users\Daria.Glushkova\Desktop\Новая папка\obj\Debug\AngryBirds.exe
+C:\Users\Daria.Glushkova\Desktop\Новая папка\obj\Debug\AngryBirds.pdb
